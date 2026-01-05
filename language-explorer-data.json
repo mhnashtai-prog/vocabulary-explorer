@@ -1,0 +1,922 @@
+{
+  "topics": [
+    {
+      "id": "phrasal-verbs",
+      "name": "Phrasal Verbs",
+      "icon": "🔄",
+      "categories": [
+        {
+          "verb": "GET",
+          "items": [
+            {
+              "display": "get <span class='particle'>up</span>",
+              "example": "I <span class='highlight'>get up</span> at 7am every morning."
+            },
+            {
+              "display": "get <span class='particle'>on</span>",
+              "example": "We need to <span class='highlight'>get on</span> the bus quickly."
+            },
+            {
+              "display": "get <span class='particle'>off</span>",
+              "example": "Please <span class='highlight'>get off</span> at the next stop."
+            },
+            {
+              "display": "get <span class='particle'>over</span>",
+              "example": "It took me weeks to <span class='highlight'>get over</span> the flu."
+            },
+            {
+              "display": "get <span class='particle'>through</span>",
+              "example": "I finally <span class='highlight'>got through</span> the difficult exam."
+            }
+          ]
+        },
+        {
+          "verb": "LOOK",
+          "items": [
+            {
+              "display": "look <span class='particle'>after</span>",
+              "example": "Can you <span class='highlight'>look after</span> my cat this weekend?"
+            },
+            {
+              "display": "look <span class='particle'>for</span>",
+              "example": "I'm <span class='highlight'>looking for</span> my keys everywhere."
+            },
+            {
+              "display": "look <span class='particle'>forward to</span>",
+              "example": "I'm <span class='highlight'>looking forward to</span> the holidays!"
+            },
+            {
+              "display": "look <span class='particle'>up</span>",
+              "example": "You should <span class='highlight'>look up</span> unknown words in a dictionary."
+            },
+            {
+              "display": "look <span class='particle'>into</span>",
+              "example": "The police are <span class='highlight'>looking into</span> the case."
+            }
+          ]
+        },
+        {
+          "verb": "PUT",
+          "items": [
+            {
+              "display": "put <span class='particle'>on</span>",
+              "example": "Please <span class='highlight'>put on</span> your coat before going outside."
+            },
+            {
+              "display": "put <span class='particle'>off</span>",
+              "example": "Don't <span class='highlight'>put off</span> your homework until tomorrow."
+            },
+            {
+              "display": "put <span class='particle'>up with</span>",
+              "example": "I can't <span class='highlight'>put up with</span> this noise anymore!"
+            },
+            {
+              "display": "put <span class='particle'>away</span>",
+              "example": "Remember to <span class='highlight'>put away</span> your toys."
+            },
+            {
+              "display": "put <span class='particle'>down</span>",
+              "example": "He <span class='highlight'>put down</span> his phone to listen."
+            }
+          ]
+        },
+        {
+          "verb": "KEEP",
+          "items": [
+            {
+              "display": "keep <span class='particle'>on</span>",
+              "example": "She <span class='highlight'>keeps on</span> talking during the movie."
+            },
+            {
+              "display": "keep <span class='particle'>up</span>",
+              "example": "Try to <span class='highlight'>keep up</span> with the rest of the group."
+            },
+            {
+              "display": "keep <span class='particle'>away</span>",
+              "example": "<span class='highlight'>Keep away</span> from the edge of the cliff!"
+            },
+            {
+              "display": "keep <span class='particle'>in touch</span>",
+              "example": "Let's <span class='highlight'>keep in touch</span> after graduation."
+            },
+            {
+              "display": "keep <span class='particle'>out</span>",
+              "example": "The sign says '<span class='highlight'>Keep out</span> - Private Property'."
+            }
+          ]
+        },
+        {
+          "verb": "GO",
+          "items": [
+            {
+              "display": "go <span class='particle'>on</span>",
+              "example": "What's <span class='highlight'>going on</span> here?"
+            },
+            {
+              "display": "go <span class='particle'>out</span>",
+              "example": "Would you like to <span class='highlight'>go out</span> for dinner tonight?"
+            },
+            {
+              "display": "go <span class='particle'>through</span>",
+              "example": "We need to <span class='highlight'>go through</span> the contract carefully."
+            },
+            {
+              "display": "go <span class='particle'>over</span>",
+              "example": "Let's <span class='highlight'>go over</span> the instructions one more time."
+            },
+            {
+              "display": "go <span class='particle'>back</span>",
+              "example": "I'd love to <span class='highlight'>go back</span> to Paris someday."
+            }
+          ]
+        },
+        {
+          "verb": "TURN",
+          "items": [
+            {
+              "display": "turn <span class='particle'>on</span>",
+              "example": "Can you <span class='highlight'>turn on</span> the lights please?"
+            },
+            {
+              "display": "turn <span class='particle'>off</span>",
+              "example": "Don't forget to <span class='highlight'>turn off</span> the TV."
+            },
+            {
+              "display": "turn <span class='particle'>up</span>",
+              "example": "Could you <span class='highlight'>turn up</span> the volume?"
+            },
+            {
+              "display": "turn <span class='particle'>down</span>",
+              "example": "Please <span class='highlight'>turn down</span> the music."
+            },
+            {
+              "display": "turn <span class='particle'>into</span>",
+              "example": "The caterpillar <span class='highlight'>turned into</span> a butterfly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "collocations",
+      "name": "Collocations",
+      "icon": "🔗",
+      "categories": [
+        {
+          "verb": "MAKE",
+          "items": [
+            {
+              "display": "make a <span class='particle'>decision</span>",
+              "example": "I need to <span class='highlight'>make a decision</span> about university."
+            },
+            {
+              "display": "make a <span class='particle'>mistake</span>",
+              "example": "Everyone <span class='highlight'>makes mistakes</span> when learning."
+            },
+            {
+              "display": "make <span class='particle'>progress</span>",
+              "example": "You're <span class='highlight'>making great progress</span> in English!"
+            },
+            {
+              "display": "make an <span class='particle'>effort</span>",
+              "example": "She <span class='highlight'>made a real effort</span> to arrive on time."
+            },
+            {
+              "display": "make <span class='particle'>money</span>",
+              "example": "He <span class='highlight'>makes money</span> as a freelance designer."
+            }
+          ]
+        },
+        {
+          "verb": "DO",
+          "items": [
+            {
+              "display": "do <span class='particle'>homework</span>",
+              "example": "I always <span class='highlight'>do my homework</span> before dinner."
+            },
+            {
+              "display": "do <span class='particle'>exercise</span>",
+              "example": "She <span class='highlight'>does exercise</span> at the gym daily."
+            },
+            {
+              "display": "do <span class='particle'>business</span>",
+              "example": "They <span class='highlight'>do business</span> all over Europe."
+            },
+            {
+              "display": "do <span class='particle'>damage</span>",
+              "example": "The storm <span class='highlight'>did serious damage</span> to the coast."
+            },
+            {
+              "display": "do your <span class='particle'>best</span>",
+              "example": "Just <span class='highlight'>do your best</span> and don't worry!"
+            }
+          ]
+        },
+        {
+          "verb": "TAKE",
+          "items": [
+            {
+              "display": "take <span class='particle'>time</span>",
+              "example": "Learning a language <span class='highlight'>takes time</span> and dedication."
+            },
+            {
+              "display": "take <span class='particle'>place</span>",
+              "example": "The meeting will <span class='highlight'>take place</span> tomorrow."
+            },
+            {
+              "display": "take <span class='particle'>part</span>",
+              "example": "100 students <span class='highlight'>took part</span> in the competition."
+            },
+            {
+              "display": "take <span class='particle'>responsibility</span>",
+              "example": "He <span class='highlight'>took responsibility</span> for the failure."
+            },
+            {
+              "display": "take <span class='particle'>action</span>",
+              "example": "We must <span class='highlight'>take action</span> to reduce pollution."
+            }
+          ]
+        },
+        {
+          "verb": "GIVE",
+          "items": [
+            {
+              "display": "give <span class='particle'>advice</span>",
+              "example": "Can you <span class='highlight'>give me advice</span> about universities?"
+            },
+            {
+              "display": "give <span class='particle'>permission</span>",
+              "example": "My parents <span class='highlight'>gave me permission</span> to travel."
+            },
+            {
+              "display": "give a <span class='particle'>speech</span>",
+              "example": "The CEO will <span class='highlight'>give a speech</span> tomorrow."
+            },
+            {
+              "display": "give a <span class='particle'>hand</span>",
+              "example": "Could you <span class='highlight'>give me a hand</span> with these bags?"
+            },
+            {
+              "display": "give <span class='particle'>up</span>",
+              "example": "Don't <span class='highlight'>give up</span> on your dreams!"
+            }
+          ]
+        },
+        {
+          "verb": "HAVE",
+          "items": [
+            {
+              "display": "have a <span class='particle'>look</span>",
+              "example": "Can I <span class='highlight'>have a look</span> at your notes?"
+            },
+            {
+              "display": "have <span class='particle'>fun</span>",
+              "example": "We <span class='highlight'>had so much fun</span> at the party!"
+            },
+            {
+              "display": "have a <span class='particle'>chat</span>",
+              "example": "Let's <span class='highlight'>have a chat</span> about your plans."
+            },
+            {
+              "display": "have a <span class='particle'>rest</span>",
+              "example": "You've worked hard - <span class='highlight'>have a rest</span> now."
+            },
+            {
+              "display": "have <span class='particle'>difficulty</span>",
+              "example": "I'm <span class='highlight'>having difficulty</span> with this grammar."
+            }
+          ]
+        },
+        {
+          "verb": "GET",
+          "items": [
+            {
+              "display": "get <span class='particle'>ready</span>",
+              "example": "<span class='highlight'>Get ready</span> quickly or we'll be late!"
+            },
+            {
+              "display": "get <span class='particle'>tired</span>",
+              "example": "I <span class='highlight'>get tired</span> easily after long days."
+            },
+            {
+              "display": "get <span class='particle'>lost</span>",
+              "example": "We <span class='highlight'>got lost</span> because we had no map."
+            },
+            {
+              "display": "get <span class='particle'>angry</span>",
+              "example": "My dad <span class='highlight'>gets angry</span> when I'm late."
+            },
+            {
+              "display": "get a <span class='particle'>job</span>",
+              "example": "She finally <span class='highlight'>got a job</span> at a tech company."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tenses",
+      "name": "Tenses",
+      "icon": "⏰",
+      "categories": [
+        {
+          "verb": "PRESENT",
+          "items": [
+            {
+              "display": "Simple",
+              "example": "I <span class='highlight'>work</span> in an office every day."
+            },
+            {
+              "display": "Continuous",
+              "example": "I <span class='highlight'>am working</span> on a project right now."
+            },
+            {
+              "display": "Perfect",
+              "example": "I <span class='highlight'>have worked</span> here for five years."
+            },
+            {
+              "display": "Perfect Continuous",
+              "example": "I <span class='highlight'>have been working</span> all morning."
+            }
+          ]
+        },
+        {
+          "verb": "PAST",
+          "items": [
+            {
+              "display": "Simple",
+              "example": "I <span class='highlight'>worked</span> late yesterday evening."
+            },
+            {
+              "display": "Continuous",
+              "example": "I <span class='highlight'>was working</span> when you called."
+            },
+            {
+              "display": "Perfect",
+              "example": "I <span class='highlight'>had worked</span> there before moving."
+            },
+            {
+              "display": "Perfect Continuous",
+              "example": "I <span class='highlight'>had been working</span> for hours."
+            }
+          ]
+        },
+        {
+          "verb": "FUTURE",
+          "items": [
+            {
+              "display": "will",
+              "example": "I <span class='highlight'>will work</span> from home tomorrow."
+            },
+            {
+              "display": "going to",
+              "example": "I <span class='highlight'>am going to work</span> harder."
+            },
+            {
+              "display": "Present Continuous",
+              "example": "I <span class='highlight'>am working</span> late next week."
+            },
+            {
+              "display": "Future Perfect",
+              "example": "I <span class='highlight'>will have finished</span> by 5pm."
+            }
+          ]
+        },
+        {
+          "verb": "CONDITIONAL",
+          "items": [
+            {
+              "display": "Zero",
+              "example": "If you heat water, it <span class='highlight'>boils</span>."
+            },
+            {
+              "display": "First",
+              "example": "If it rains, I <span class='highlight'>will stay</span> home."
+            },
+            {
+              "display": "Second",
+              "example": "If I had money, I <span class='highlight'>would travel</span>."
+            },
+            {
+              "display": "Third",
+              "example": "If I had studied, I <span class='highlight'>would have passed</span>."
+            }
+          ]
+        },
+        {
+          "verb": "PASSIVE",
+          "items": [
+            {
+              "display": "Present Simple",
+              "example": "The letters <span class='highlight'>are delivered</span> daily."
+            },
+            {
+              "display": "Past Simple",
+              "example": "The house <span class='highlight'>was built</span> in 1900."
+            },
+            {
+              "display": "Present Perfect",
+              "example": "The work <span class='highlight'>has been completed</span>."
+            },
+            {
+              "display": "Future",
+              "example": "The report <span class='highlight'>will be finished</span> soon."
+            }
+          ]
+        },
+        {
+          "verb": "MODALS",
+          "items": [
+            {
+              "display": "must / have to",
+              "example": "You <span class='highlight'>must</span> wear a seatbelt."
+            },
+            {
+              "display": "should / ought to",
+              "example": "You <span class='highlight'>should</span> see a doctor."
+            },
+            {
+              "display": "can / could",
+              "example": "I <span class='highlight'>can</span> speak three languages."
+            },
+            {
+              "display": "may / might",
+              "example": "It <span class='highlight'>might</span> rain tomorrow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "descriptive-verbs",
+      "name": "Descriptive Verbs",
+      "icon": "✨",
+      "categories": [
+        {
+          "verb": "MOVEMENT",
+          "items": [
+            {
+              "display": "<span class='particle'>stride</span>",
+              "example": "She <span class='highlight'>strode</span> confidently into the room."
+            },
+            {
+              "display": "<span class='particle'>creep</span>",
+              "example": "The cat <span class='highlight'>crept</span> silently through the grass."
+            },
+            {
+              "display": "<span class='particle'>dash</span>",
+              "example": "He <span class='highlight'>dashed</span> across the street."
+            },
+            {
+              "display": "<span class='particle'>stroll</span>",
+              "example": "We <span class='highlight'>strolled</span> along the beach."
+            },
+            {
+              "display": "<span class='particle'>trudge</span>",
+              "example": "They <span class='highlight'>trudged</span> through the snow."
+            }
+          ]
+        },
+        {
+          "verb": "SPEAKING",
+          "items": [
+            {
+              "display": "<span class='particle'>whisper</span>",
+              "example": "She <span class='highlight'>whispered</span> the secret to me."
+            },
+            {
+              "display": "<span class='particle'>murmur</span>",
+              "example": "The audience <span class='highlight'>murmured</span> in agreement."
+            },
+            {
+              "display": "<span class='particle'>exclaim</span>",
+              "example": "'That's amazing!' she <span class='highlight'>exclaimed</span>."
+            },
+            {
+              "display": "<span class='particle'>declare</span>",
+              "example": "He <span class='highlight'>declared</span> his love publicly."
+            },
+            {
+              "display": "<span class='particle'>mutter</span>",
+              "example": "She <span class='highlight'>muttered</span> complaints under her breath."
+            }
+          ]
+        },
+        {
+          "verb": "LOOKING",
+          "items": [
+            {
+              "display": "<span class='particle'>glance</span>",
+              "example": "I <span class='highlight'>glanced</span> at my watch quickly."
+            },
+            {
+              "display": "<span class='particle'>stare</span>",
+              "example": "He <span class='highlight'>stared</span> at the painting for hours."
+            },
+            {
+              "display": "<span class='particle'>peer</span>",
+              "example": "She <span class='highlight'>peered</span> through the keyhole."
+            },
+            {
+              "display": "<span class='particle'>gaze</span>",
+              "example": "They <span class='highlight'>gazed</span> at the stars above."
+            },
+            {
+              "display": "<span class='particle'>glimpse</span>",
+              "example": "I <span class='highlight'>glimpsed</span> someone in the shadows."
+            }
+          ]
+        },
+        {
+          "verb": "HOLDING",
+          "items": [
+            {
+              "display": "<span class='particle'>grasp</span>",
+              "example": "She <span class='highlight'>grasped</span> the rope tightly."
+            },
+            {
+              "display": "<span class='particle'>clutch</span>",
+              "example": "He <span class='highlight'>clutched</span> his phone nervously."
+            },
+            {
+              "display": "<span class='particle'>grip</span>",
+              "example": "I <span class='highlight'>gripped</span> the steering wheel."
+            },
+            {
+              "display": "<span class='particle'>seize</span>",
+              "example": "The police <span class='highlight'>seized</span> the evidence."
+            },
+            {
+              "display": "<span class='particle'>snatch</span>",
+              "example": "Someone <span class='highlight'>snatched</span> my bag!"
+            }
+          ]
+        },
+        {
+          "verb": "EATING",
+          "items": [
+            {
+              "display": "<span class='particle'>devour</span>",
+              "example": "He <span class='highlight'>devoured</span> the pizza hungrily."
+            },
+            {
+              "display": "<span class='particle'>nibble</span>",
+              "example": "She <span class='highlight'>nibbled</span> on a biscuit."
+            },
+            {
+              "display": "<span class='particle'>munch</span>",
+              "example": "They <span class='highlight'>munched</span> popcorn during the film."
+            },
+            {
+              "display": "<span class='particle'>gobble</span>",
+              "example": "The child <span class='highlight'>gobbled</span> down the cake."
+            },
+            {
+              "display": "<span class='particle'>savor</span>",
+              "example": "I <span class='highlight'>savored</span> every bite of the meal."
+            }
+          ]
+        },
+        {
+          "verb": "FEELING",
+          "items": [
+            {
+              "display": "<span class='particle'>adore</span>",
+              "example": "I absolutely <span class='highlight'>adore</span> chocolate!"
+            },
+            {
+              "display": "<span class='particle'>despise</span>",
+              "example": "She <span class='highlight'>despises</span> dishonesty."
+            },
+            {
+              "display": "<span class='particle'>cherish</span>",
+              "example": "I <span class='highlight'>cherish</span> these memories."
+            },
+            {
+              "display": "<span class='particle'>loathe</span>",
+              "example": "He <span class='highlight'>loathes</span> getting up early."
+            },
+            {
+              "display": "<span class='particle'>relish</span>",
+              "example": "She <span class='highlight'>relished</span> the challenge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "collective-nouns",
+      "name": "Collective Nouns",
+      "icon": "👥",
+      "categories": [
+        {
+          "verb": "ANIMALS",
+          "items": [
+            {
+              "display": "a <span class='particle'>pride</span> of lions",
+              "example": "We saw <span class='highlight'>a pride of lions</span> on safari."
+            },
+            {
+              "display": "a <span class='particle'>flock</span> of birds",
+              "example": "<span class='highlight'>A flock of birds</span> flew overhead."
+            },
+            {
+              "display": "a <span class='particle'>school</span> of fish",
+              "example": "<span class='highlight'>A school of fish</span> swam past us."
+            },
+            {
+              "display": "a <span class='particle'>pack</span> of wolves",
+              "example": "<span class='highlight'>A pack of wolves</span> howled at night."
+            },
+            {
+              "display": "a <span class='particle'>swarm</span> of bees",
+              "example": "<span class='highlight'>A swarm of bees</span> buzzed around."
+            }
+          ]
+        },
+        {
+          "verb": "PEOPLE",
+          "items": [
+            {
+              "display": "a <span class='particle'>crowd</span> of people",
+              "example": "<span class='highlight'>A crowd of people</span> gathered outside."
+            },
+            {
+              "display": "a <span class='particle'>team</span> of players",
+              "example": "<span class='highlight'>A team of players</span> practiced daily."
+            },
+            {
+              "display": "a <span class='particle'>crew</span> of sailors",
+              "example": "<span class='highlight'>A crew of sailors</span> manned the ship."
+            },
+            {
+              "display": "a <span class='particle'>gang</span> of thieves",
+              "example": "<span class='highlight'>A gang of thieves</span> was arrested."
+            },
+            {
+              "display": "a <span class='particle'>panel</span> of experts",
+              "example": "<span class='highlight'>A panel of experts</span> judged the contest."
+            }
+          ]
+        },
+        {
+          "verb": "OBJECTS",
+          "items": [
+            {
+              "display": "a <span class='particle'>bunch</span> of keys",
+              "example": "I found <span class='highlight'>a bunch of keys</span> in my bag."
+            },
+            {
+              "display": "a <span class='particle'>deck</span> of cards",
+              "example": "We need <span class='highlight'>a deck of cards</span> to play."
+            },
+            {
+              "display": "a <span class='particle'>bouquet</span> of flowers",
+              "example": "He gave her <span class='highlight'>a bouquet of flowers</span>."
+            },
+            {
+              "display": "a <span class='particle'>stack</span> of books",
+              "example": "There's <span class='highlight'>a stack of books</span> on my desk."
+            },
+            {
+              "display": "a <span class='particle'>set</span> of tools",
+              "example": "I bought <span class='highlight'>a set of tools</span> yesterday."
+            }
+          ]
+        },
+        {
+          "verb": "FOOD",
+          "items": [
+            {
+              "display": "a <span class='particle'>loaf</span> of bread",
+              "example": "Can you buy <span class='highlight'>a loaf of bread</span>?"
+            },
+            {
+              "display": "a <span class='particle'>bar</span> of chocolate",
+              "example": "I ate <span class='highlight'>a bar of chocolate</span> for dessert."
+            },
+            {
+              "display": "a <span class='particle'>slice</span> of cake",
+              "example": "Would you like <span class='highlight'>a slice of cake</span>?"
+            },
+            {
+              "display": "a <span class='particle'>bunch</span> of grapes",
+              "example": "I bought <span class='highlight'>a bunch of grapes</span> today."
+            },
+            {
+              "display": "a <span class='particle'>carton</span> of milk",
+              "example": "We need <span class='highlight'>a carton of milk</span> from the shop."
+            }
+          ]
+        },
+        {
+          "verb": "NATURE",
+          "items": [
+            {
+              "display": "a <span class='particle'>clap</span> of thunder",
+              "example": "We heard <span class='highlight'>a clap of thunder</span> nearby."
+            },
+            {
+              "display": "a <span class='particle'>flash</span> of lightning",
+              "example": "<span class='highlight'>A flash of lightning</span> lit the sky."
+            },
+            {
+              "display": "a <span class='particle'>gust</span> of wind",
+              "example": "<span class='highlight'>A gust of wind</span> blew my hat off."
+            },
+            {
+              "display": "a <span class='particle'>drop</span> of rain",
+              "example": "I felt <span class='highlight'>a drop of rain</span> on my face."
+            },
+            {
+              "display": "a <span class='particle'>ray</span> of sunshine",
+              "example": "<span class='highlight'>A ray of sunshine</span> broke through."
+            }
+          ]
+        },
+        {
+          "verb": "ABSTRACT",
+          "items": [
+            {
+              "display": "a <span class='particle'>piece</span> of advice",
+              "example": "Can I give you <span class='highlight'>a piece of advice</span>?"
+            },
+            {
+              "display": "a <span class='particle'>stroke</span> of luck",
+              "example": "It was <span class='highlight'>a stroke of luck</span> meeting you!"
+            },
+            {
+              "display": "a <span class='particle'>burst</span> of energy",
+              "example": "I had <span class='highlight'>a burst of energy</span> this morning."
+            },
+            {
+              "display": "a <span class='particle'>sense</span> of humor",
+              "example": "She has <span class='highlight'>a great sense of humor</span>."
+            },
+            {
+              "display": "a <span class='particle'>glimmer</span> of hope",
+              "example": "There's still <span class='highlight'>a glimmer of hope</span>."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "name": "Idioms",
+      "icon": "💬",
+      "categories": [
+        {
+          "verb": "TIME",
+          "items": [
+            {
+              "display": "in the <span class='particle'>nick of time</span>",
+              "example": "We arrived <span class='highlight'>in the nick of time</span>!"
+            },
+            {
+              "display": "once in a <span class='particle'>blue moon</span>",
+              "example": "I see him <span class='highlight'>once in a blue moon</span>."
+            },
+            {
+              "display": "<span class='particle'>kill time</span>",
+              "example": "I'm just <span class='highlight'>killing time</span> until class starts."
+            },
+            {
+              "display": "<span class='particle'>better late than never</span>",
+              "example": "You're here now - <span class='highlight'>better late than never</span>!"
+            },
+            {
+              "display": "the <span class='particle'>crack of dawn</span>",
+              "example": "We left at <span class='highlight'>the crack of dawn</span>."
+            }
+          ]
+        },
+        {
+          "verb": "MONEY",
+          "items": [
+            {
+              "display": "cost an <span class='particle'>arm and a leg</span>",
+              "example": "That car <span class='highlight'>cost an arm and a leg</span>!"
+            },
+            {
+              "display": "break the <span class='particle'>bank</span>",
+              "example": "This holiday won't <span class='highlight'>break the bank</span>."
+            },
+            {
+              "display": "<span class='particle'>tighten your belt</span>",
+              "example": "We need to <span class='highlight'>tighten our belts</span> this month."
+            },
+            {
+              "display": "make ends <span class='particle'>meet</span>",
+              "example": "It's hard to <span class='highlight'>make ends meet</span> on minimum wage."
+            },
+            {
+              "display": "worth your <span class='particle'>weight in gold</span>",
+              "example": "That assistant is <span class='highlight'>worth her weight in gold</span>."
+            }
+          ]
+        },
+        {
+          "verb": "EMOTIONS",
+          "items": [
+            {
+              "display": "over the <span class='particle'>moon</span>",
+              "example": "She was <span class='highlight'>over the moon</span> about the news!"
+            },
+            {
+              "display": "down in the <span class='particle'>dumps</span>",
+              "example": "He's been <span class='highlight'>down in the dumps</span> lately."
+            },
+            {
+              "display": "on <span class='particle'>cloud nine</span>",
+              "example": "I'm <span class='highlight'>on cloud nine</span> since getting engaged!"
+            },
+            {
+              "display": "blow off <span class='particle'>steam</span>",
+              "example": "I go running to <span class='highlight'>blow off steam</span>."
+            },
+            {
+              "display": "keep your <span class='particle'>chin up</span>",
+              "example": "<span class='highlight'>Keep your chin up</span> - things will improve!"
+            }
+          ]
+        },
+        {
+          "verb": "WORK",
+          "items": [
+            {
+              "display": "call it a <span class='particle'>day</span>",
+              "example": "I'm tired - let's <span class='highlight'>call it a day</span>."
+            },
+            {
+              "display": "get the <span class='particle'>ball rolling</span>",
+              "example": "Let's <span class='highlight'>get the ball rolling</span> on this project."
+            },
+            {
+              "display": "back to the <span class='particle'>drawing board</span>",
+              "example": "The plan failed - <span class='highlight'>back to the drawing board</span>!"
+            },
+            {
+              "display": "think outside the <span class='particle'>box</span>",
+              "example": "We need to <span class='highlight'>think outside the box</span> here."
+            },
+            {
+              "display": "cut <span class='particle'>corners</span>",
+              "example": "Don't <span class='highlight'>cut corners</span> on this important work."
+            }
+          ]
+        },
+        {
+          "verb": "WEATHER",
+          "items": [
+            {
+              "display": "it's raining <span class='particle'>cats and dogs</span>",
+              "example": "<span class='highlight'>It's raining cats and dogs</span> outside!"
+            },
+            {
+              "display": "under the <span class='particle'>weather</span>",
+              "example": "I'm feeling <span class='highlight'>under the weather</span> today."
+            },
+            {
+              "display": "steal someone's <span class='particle'>thunder</span>",
+              "example": "Don't <span class='highlight'>steal her thunder</span> - it's her moment!"
+            },
+            {
+              "display": "a <span class='particle'>storm in a teacup</span>",
+              "example": "Don't worry - it's just <span class='highlight'>a storm in a teacup</span>."
+            },
+            {
+              "display": "every <span class='particle'>cloud has a silver lining</span>",
+              "example": "Remember, <span class='highlight'>every cloud has a silver lining</span>."
+            }
+          ]
+        },
+        {
+          "verb": "FOOD",
+          "items": [
+            {
+              "display": "piece of <span class='particle'>cake</span>",
+              "example": "That exam was <span class='highlight'>a piece of cake</span>!"
+            },
+            {
+              "display": "spill the <span class='particle'>beans</span>",
+              "example": "Come on, <span class='highlight'>spill the beans</span> - what happened?"
+            },
+            {
+              "display": "in a <span class='particle'>nutshell</span>",
+              "example": "<span class='highlight'>In a nutshell</span>, we need more time."
+            },
+            {
+              "display": "full of <span class='particle'>beans</span>",
+              "example": "The children were <span class='highlight'>full of beans</span> this morning."
+            },
+            {
+              "display": "the <span class='particle'>icing on the cake</span>",
+              "example": "Winning was great - the trophy was <span class='highlight'>the icing on the cake</span>!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
